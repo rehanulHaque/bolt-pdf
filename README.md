@@ -4,9 +4,9 @@ A fast, fully offline, and privacy-focused digital library and PDF reader built 
 
 Unlike modern e-readers that rely on cloud syncing and complex databases, **Bolt PDF** uses a transparent, 100% JSON-based local storage system. It allows you to organize your PDFs like a real bookshelf, sort them by genre, and read them in a beautiful two-page spread without ever needing an internet connection.
 
-![Screenshot-1](/3.png.png)
-![Screenshot-2](/1.png.png)
-![Screenshot-2](/2.png.png)
+![Screenshot-1](/3.png)
+![Screenshot-2](/1.png)
+![Screenshot-2](/2.png)
 
 ## ✨ Features
 
